@@ -8,4 +8,8 @@ public class First {
   public void say(){
     System.out.println("123");
   }
+
+  public void fun(){
+
+  }
 }
