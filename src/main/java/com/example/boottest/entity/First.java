@@ -12,4 +12,12 @@ public class First {
   public void fun(){
 
   }
+
+  public void empty(){
+
+  }
+
+  public void noAdd(){
+    System.out.println("这个没有被add");
+  }
 }
